@@ -1,0 +1,35 @@
+.footer {
+  background-color: $third-color;
+  padding: 20px 0;
+
+  & section {
+    margin-top: 30px;
+    color: white;
+  }
+  & p {
+    margin-bottom: 0;
+    font-size: 14px;
+    color: white;
+  }
+}
+
+.sectionName {
+  font-size: 14px;
+  line-height: 19px;
+  text-transform: uppercase;
+}
+
+.footer__info {
+  margin-top: 50px;
+  & p {
+    font-size: 11px;
+  }
+
+  & a {
+    color: white;
+  }
+}
+
+.accent {
+  font-size: 18px;
+}
